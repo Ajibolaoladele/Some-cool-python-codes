@@ -1,4 +1,4 @@
-#NiceHexSpiral.py
+#NiceHexSpiral.py - creates a graphical spiral
 
 import turtle
 
