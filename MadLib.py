@@ -1,4 +1,4 @@
-#MadLib Program - page 9
+#MadLib Program - creates a basic madlib
 
 adjective = input("Please enter an adjective: ")
 noun = input("Please enter a noun: ")
