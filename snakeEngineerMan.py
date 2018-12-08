@@ -1,3 +1,9 @@
+# Author: Brian Seymour, commented by Brad Penney
+# Purpose: Write a Python Snake Game in less than 5 minutes
+# GitHub: https://github.com/engineer-man/youtube/blob/master/015/snake.py (original file)
+# GitHub: 
+
+# imports - random integershttps://docs.python.org/3/library/random.html
 import random
 import curses
 
